@@ -1,11 +1,12 @@
+// TIPOS DE DATOS EN JAVASCRIPT
 // TIPO NUMBER
-let numero = 15;
+let numero = 10;
 // TIPO STRING
 let saludo = "hola mundo, desde js"
-let nombre = "Daniel"
+let nombre = "Lester"
 // TIPO BOOLEAN
 let validacion = true;
-let validacion2 = true;
+let validacion2 = false;
 // TIPO NULL
 let data = null;
 // DEFINICION DE UN CONSTANTE
