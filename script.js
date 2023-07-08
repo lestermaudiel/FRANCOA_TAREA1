@@ -37,3 +37,12 @@ console.log(numeroFormateado); // Salida: "10.00"
 // Método: isNaN()
 let noEsNumero = isNaN(numero);
 console.log(noEsNumero); // Salida: false
+
+// METODO PARA EL TIPO DE DATO "STRING"
+// Método: length
+let longitudSaludo = saludo.length;
+console.log(longitudSaludo); // Salida: 20
+
+// Método: toUpperCase()
+let nombreMayusculas = nombre.toUpperCase();
+console.log(nombreMayusculas); // Salida: "LESTER"
