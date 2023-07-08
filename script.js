@@ -46,3 +46,12 @@ console.log(longitudSaludo); // Salida: 20
 // Método: toUpperCase()
 let nombreMayusculas = nombre.toUpperCase();
 console.log(nombreMayusculas); // Salida: "LESTER"
+
+// METODO PARA EL TIPO DE DATO "BOOLEANO"
+// Método: toString()
+let validacionString = validacion.toString();
+console.log(validacionString); // Salida: "true"
+
+// Método: valueOf()
+let validacionValor = validacion.valueOf();
+console.log(validacionValor); // Salida: true
