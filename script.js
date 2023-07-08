@@ -24,3 +24,6 @@ console.log (Automovil);
 // CREACION DE ARRAY
 let array = [1, 2, 3, 4, 5, "array"]
 console.log(array); 
+
+// DEFINICION DE UN CONSTANTE
+const nombrecreador = "Lester";
