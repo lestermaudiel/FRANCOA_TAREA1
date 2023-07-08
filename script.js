@@ -55,3 +55,12 @@ console.log(validacionString); // Salida: "true"
 // Método: valueOf()
 let validacionValor = validacion.valueOf();
 console.log(validacionValor); // Salida: true
+
+// METODO PARA EL TIPO DE DATO NULL
+// Método: indexOf()
+let indiceMundo = saludo.indexOf("mundo");
+console.log(indiceMundo); // Salida: 5
+
+// Método: slice()
+let subcadena = saludo.slice(0, 4);
+console.log(subcadena); // Salida: "hola"
