@@ -27,3 +27,13 @@ console.log(array);
 
 // DEFINICION DE UN CONSTANTE
 const nombrecreador = "Lester";
+
+
+// METODOS PARA EL TIPO DE DATO "NUMERO"
+// Método: toFixed()
+let numeroFormateado = numero.toFixed(2);
+console.log(numeroFormateado); // Salida: "10.00"
+
+// Método: isNaN()
+let noEsNumero = isNaN(numero);
+console.log(noEsNumero); // Salida: false
